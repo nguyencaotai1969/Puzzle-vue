@@ -12,6 +12,7 @@
         <div class="puzzle-contain">
           <div id="puzzle-background" class="puzzle-background"></div>
           <div id="puzzle" class="puzzle-canvas"></div>
+          <div>dddd</div>
           <div class="suggest-container">
 
           <div
